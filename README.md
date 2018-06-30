@@ -1,2 +1,1 @@
-# learning-code
-ufuu 
+# learning-code      Atuoencoder demo
